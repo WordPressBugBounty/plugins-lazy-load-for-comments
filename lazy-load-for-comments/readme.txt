@@ -3,7 +3,7 @@ Contributors: joelcj91,duckdev
 Tags: lazy load, lazy comments, conditional comments, lazyload comments, lazyload wordpress comments, comments
 Donate link: https://paypal.me/JoelCJ
 Requires at least: 4.0
-Tested up to: 6.6
+Tested up to: 6.9
 Stable tag: 1.0.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
